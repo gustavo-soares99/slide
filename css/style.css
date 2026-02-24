@@ -1,5 +1,5 @@
 body {
-  margin: 0px
+  margin: 0px;
 }
 
 ul {
@@ -26,4 +26,8 @@ img {
   width: 80vw;
   max-width: 800px;
   margin: 0 20px;
+}
+
+.slide {
+  transform: translate3d(200px, 0px, 0px);
 }
